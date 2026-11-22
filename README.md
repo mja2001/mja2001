@@ -1,10 +1,4 @@
-<div align="center">
-  <!-- تأكد أن اسم الصورة يطابق الاسم المرفوع في المستودع تماماً (مثلاً banner.jpg أو banner.png) -->
-  <img src="banner.jpg" width="100%" alt="Alayham Almajali Banner" />
-
-  <br /><br />
-
-  <h2>Hi 👋, I'm Alayham Almajali</h2>
+<h2>Hi 👋, I'm Alayham Almajali</h2>
   <p>
     <strong>Blockchain & AI Engineer</strong> 🚀<br />
     Architecting privacy-first decentralized systems, cross-chain interoperability protocols & applied ML solutions
