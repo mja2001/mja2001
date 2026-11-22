@@ -110,15 +110,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mja2001&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mja2001&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   💬 Discord: <code>aym_mj</code> | ✈️ Telegram: <code>@AYHMJ0001</code> | 📧 <a href="mailto:alayhamalmajali@gmail.com">alayhamalmajali@gmail.com</a>
 </div>
